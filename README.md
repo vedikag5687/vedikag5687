@@ -61,16 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedikag5687&show_icons=true&theme=radical"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedikag5687&theme=radical"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
